@@ -1,0 +1,24 @@
+{
+  "name": "restfullapi_node",
+  "version": "1.0.0",
+  "description": "restfull api node mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyirawan/node_restapi.git"
+  },
+  "keywords": [
+    "restfull",
+    "api",
+    "nodejs"
+  ],
+  "author": "bobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbyirawan/node_restapi/issues"
+  },
+  "homepage": "https://github.com/bobbyirawan/node_restapi#readme"
+}
